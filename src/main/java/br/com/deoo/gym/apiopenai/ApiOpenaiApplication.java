@@ -10,4 +10,5 @@ public class ApiOpenaiApplication {
         SpringApplication.run(ApiOpenaiApplication.class, args);
     }
 
+
 }

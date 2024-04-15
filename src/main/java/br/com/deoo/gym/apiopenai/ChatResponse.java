@@ -1,7 +1,5 @@
 package br.com.deoo.gym.apiopenai;
 
-
-
 import java.util.List;
 
 public class ChatResponse {
